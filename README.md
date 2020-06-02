@@ -1,4 +1,2 @@
-# ARIMAinCovid19
-An academic essay on covid19 forecasting using ARIMA.
+# Forecasting COVID19 time series with Facebook Prophet
 
-Please refer to the .pdf for the complete documentation.
